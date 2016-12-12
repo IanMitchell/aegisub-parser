@@ -1,0 +1,30 @@
+{
+  "name": "aegisub-parser",
+  "version": "1.0.0",
+  "description": "Parses Aegisub Files (.ass)",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "test-all": "jest --setupTestFrameworkScriptFile ./test.js"
+  },
+  "repository": "ianmitchell/aegisub-parser",
+  "author": {
+    "name": "Ian Mitchell",
+    "email": "ian.mitchel1@live.com",
+    "url": "http://ianmitchell.io"
+  },
+  "keywords": [
+    "Aegisub"
+  ],
+  "engines": {
+    "node": ">6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-config-airbnb": "^11.1.0",
+    "eslint-plugin-import": "^1.15.0",
+    "jest": "^17.0.3"
+  }
+}

@@ -1,0 +1,358 @@
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:07.53,0:00:08.23,GJM_Main,,0,0,0,,All right.
+Dialogue: 10,0:00:10.24,0:00:11.29,GJM_Main,,0,0,0,,Here, Takako.
+Dialogue: 10,0:00:11.97,0:00:12.94,GJM_Main,,0,0,0,,This is for Azu.
+Dialogue: 10,0:00:14.27,0:00:15.42,GJM_Main,,0,0,0,,And this one's Hagita's.
+Dialogue: 10,0:00:15.42,0:00:16.99,GJM_Main,,0,0,0,,What else is in it?
+Dialogue: 10,0:00:16.99,0:00:18.79,GJM_Main,,0,0,0,,Just a weird picture of a girl, and...
+Dialogue: 10,0:00:18.79,0:00:20.00,GJM_Main,,0,0,0,,That's mine.
+Dialogue: 10,0:00:20.00,0:00:21.70,GJM_Main,,0,0,0,,...for some reason, a publicity photo of Messi.
+Dialogue: 10,0:00:22.75,0:00:25.96,GJM_Main,,0,0,0,,There's also a picture of\Nall of us, and Kakeru's letter.
+Dialogue: 10,0:00:40.83,0:00:43.39,GJM_Main,,0,0,0,,{\i1}My recently-turned 26-year-old self
+Dialogue: 10,0:00:51.52,0:00:55.45,GJM_Main,,0,0,0,,{\i1}is filled with regrets.
+Dialogue: 10,0:02:46.62,0:02:48.82,GJM_Main,,0,0,30,,She said it'll start at ten.
+Dialogue: 10,0:02:48.82,0:02:53.58,GJM_Main,,0,0,0,,Right, right. So I think that'll leave\Nsome free time in the afternoon.
+Dialogue: 10,0:02:53.58,0:02:55.37,GJM_Main,,0,0,0,,I'll leave it to you, then.
+Dialogue: 10,0:03:01.87,0:03:02.95,GJM_Main,,0,0,0,,Naho!
+Dialogue: 10,0:03:03.76,0:03:04.51,GJM_Main,,0,0,0,,From myself?
+Dialogue: 10,0:03:04.51,0:03:05.45,GJM_Main,,0,0,0,,Naho!
+Dialogue: 10,0:03:06.94,0:03:08.38,GJM_Main,,0,0,0,,Are you okay on time?
+Dialogue: 10,0:03:08.38,0:03:08.96,GJM_Main,,0,0,0,,Oh, no!
+Dialogue: 10,0:03:10.93,0:03:12.36,GJM_Main,,0,0,0,,Goodness...
+Dialogue: 10,0:03:15.58,0:03:17.46,GJM_Main,,0,0,0,,She's not gonna make it.
+Dialogue: 10,0:03:49.30,0:03:51.77,GJM_Main,,0,0,0,,{\i1}Today's diary entry decided.
+Dialogue: 10,0:03:52.36,0:03:55.79,GJM_Main,,0,0,0,,"April 6th: The first time in my life I overslept."
+Dialogue: 10,0:03:56.46,0:03:58.46,GJM_Main,,0,0,0,,Second-years stay in the same class,
+Dialogue: 10,0:03:58.46,0:04:00.99,GJM_Main,,0,0,0,,so this spring might not feel like a new start.
+Dialogue: 10,0:04:00.99,0:04:03.47,GJM_Main,,0,0,0,,Still, let's give it our all this year.
+Dialogue: 10,0:04:03.47,0:04:04.80,GJM_Main,,0,0,0,,Glad to be with you all again.
+Dialogue: 10,0:04:04.80,0:04:08.75,GJM_Main,,0,0,0,,Today we have the opening ceremony,\Nand then I'll distribute your textbooks.
+Dialogue: 10,0:04:09.72,0:04:14.05,GJM_Main,,0,0,0,,Let's see... Also, there's someone\NI'd like to introduce to you all today.
+Dialogue: 10,0:04:14.05,0:04:15.10,GJM_Main,,0,0,0,,A transfer student?
+Dialogue: 10,0:04:15.10,0:04:16.19,GJM_Main,,0,0,0,,Is it a girl?
+Dialogue: 10,0:04:16.19,0:04:17.47,GJM_Main,,0,0,0,,Score!
+Dialogue: 10,0:04:18.11,0:04:19.93,GJM_Main,,0,0,0,,Wait quietly for a bit, kids.
+Dialogue: 10,0:04:26.47,0:04:28.44,GJM_Main,,0,0,0,,{\i1}Ten years in the future?
+Dialogue: 10,0:04:38.92,0:04:40.63,GJM_Main,,0,0,0,,{\i1}How did it know?
+Dialogue: 10,0:04:46.10,0:04:47.64,GJM_Main,,0,0,0,,{\i1}A transfer student...
+Dialogue: 10,0:04:49.15,0:04:51.39,GJM_Main,,0,0,0,,All right, settle down, everyone!
+Dialogue: 10,0:04:51.95,0:04:53.07,GJM_Main,,0,0,0,,Sorry to keep you waiting.
+Dialogue: 10,0:04:59.40,0:05:02.63,GJM_Main,,0,0,0,,And his name is...
+Dialogue: 10,0:05:03.55,0:05:05.20,GJM_Main,,0,0,0,,This is Naruse Kakeru-kun.
+Dialogue: 10,0:05:06.01,0:05:09.20,GJM_Main,,0,0,0,,Naruse-kun's come all the way from Tokyo, you see.
+Dialogue: 10,0:05:09.62,0:05:11.95,GJM_Main,,0,0,0,,This is his first time living in Nagano,
+Dialogue: 10,0:05:11.95,0:05:13.20,GJM_Main,,0,0,0,,so be nice to him, everyone.
+Dialogue: 10,0:05:13.62,0:05:15.68,GJM_Main,,0,0,0,,Go on, Naruse. Say a few words.
+Dialogue: 10,0:05:18.54,0:05:20.46,GJM_Main,,0,0,0,,It's nice to meet you all.
+Dialogue: 10,0:05:21.28,0:05:23.65,GJM_Main,,0,0,0,,Okay, you can sit next to Takamiya.
+Dialogue: 10,0:05:24.94,0:05:27.84,GJM_Main,,0,0,0,,Over there. The seat all the way at the back.
+Dialogue: 10,0:05:44.95,0:05:46.70,GJM_Main,,0,0,0,,{\i1}Good morning.
+Dialogue: 10,0:05:47.41,0:05:49.41,GJM_Main,,0,0,0,,{\i1}I am the principal, Sugiyama.
+Dialogue: 10,0:05:49.76,0:05:54.43,GJM_Main,,0,0,0,,{\i1}This April, against the backdrop\Nof the blossoming cherry trees,
+Dialogue: 10,0:05:54.43,0:05:57.76,GJM_Main,,0,0,0,,{\i1}our school embarks on yet another new year
+Dialogue: 10,0:05:58.72,0:06:00.42,GJM_Main,,0,0,0,,{\i1}with a fresh, new class of students.
+Dialogue: 10,0:06:00.42,0:06:02.92,GJM_Main,,0,0,0,,Naho, let's go home.
+Dialogue: 10,0:06:02.92,0:06:03.86,GJM_Main,,0,0,0,,Oh, sure.
+Dialogue: 10,0:06:03.86,0:06:07.13,GJM_Main,,0,0,0,,Hey! Come have our bread for lunch!
+Dialogue: 10,0:06:07.13,0:06:08.82,GJM_Main,,0,0,0,,Really? Yay!
+Dialogue: 10,0:06:08.82,0:06:09.68,GJM_Main,,0,0,0,,Thanks.
+Dialogue: 10,0:06:10.99,0:06:12.64,GJM_Main,,0,0,0,,Hey, transfer student!
+Dialogue: 10,0:06:13.64,0:06:15.51,GJM_Main,,0,0,0,,Kakeru-kun, right?
+Dialogue: 10,0:06:15.51,0:06:16.45,GJM_Main,,0,0,0,,Walk home with us!
+Dialogue: 10,0:06:17.45,0:06:19.50,GJM_Main,,0,0,0,,I've... kind of got...
+Dialogue: 10,0:06:19.50,0:06:22.16,GJM_Main,,0,0,0,,Kind of got nothing!\NLet's get to know each other!
+Dialogue: 10,0:06:22.16,0:06:23.65,GJM_Main,,0,0,0,,Sorry to spring this on you.
+Dialogue: 10,0:06:23.65,0:06:26.53,GJM_Main,,0,0,0,,Hey, Kakeru-kun. Come eat our bread, too.
+Dialogue: 10,0:06:26.53,0:06:27.85,GJM_Main,,0,0,0,,Her family runs a bakery.
+Dialogue: 10,0:06:27.85,0:06:28.65,GJM_Main,,0,0,0,,It's good stuff.
+Dialogue: 10,0:06:28.65,0:06:30.55,GJM_Main,,0,0,0,,Um...
+Dialogue: 10,0:06:30.55,0:06:32.03,GJM_Main,,0,0,0,,Come walk home with us.
+Dialogue: 10,0:06:32.30,0:06:34.24,GJM_Main,,0,0,0,,Don't let this half-day go to waste.
+Dialogue: 10,0:06:34.24,0:06:36.00,GJM_Main,,0,0,0,,{\i1}Isn't this...
+Dialogue: 10,0:06:34.56,0:06:36.00,GJM_Overlap,,0,0,0,,Tokyo, huh?
+Dialogue: 10,0:06:36.60,0:06:38.84,GJM_Main,,0,0,0,,We'll show you around Matsumoto!
+Dialogue: 10,0:06:38.84,0:06:40.10,GJM_Main,,0,0,0,,Yeah! How 'bout it?
+Dialogue: 10,0:06:40.10,0:06:41.04,GJM_Main,,0,0,0,,How 'bout it?
+Dialogue: 10,0:06:42.14,0:06:45.33,GJM_Main,,0,0,0,,Okay... Just let me send one email first.
+Dialogue: 10,0:06:45.33,0:06:45.82,GJM_Main,,0,0,0,,Okay!
+Dialogue: 10,0:06:45.69,0:06:46.14,GJM_Overlap,,0,0,0,,Sure.
+Dialogue: 10,0:06:45.82,0:06:46.76,GJM_Main,,0,0,0,,Awesome!
+Dialogue: 10,0:06:46.76,0:06:48.97,GJM_Main,,0,0,0,,I'll go on ahead to swipe some bread for us!
+Dialogue: 10,0:06:48.97,0:06:51.77,GJM_Main,,0,0,0,,I'm expecting a lot! Like a truckload!
+Dialogue: 10,0:06:51.26,0:06:52.76,GJM_Overlap,,0,0,0,,Thanks.
+Dialogue: 10,0:06:51.77,0:06:52.76,GJM_Main,,0,0,0,,Mustard-greens bun.
+Dialogue: 10,0:06:52.76,0:06:54.84,GJM_Main,,0,0,0,,Man, I'm totally craving bread right now!
+Dialogue: 10,0:06:53.04,0:06:54.84,GJM_Overlap,,0,0,0,,I'm really hungry.
+Dialogue: 10,0:06:55.69,0:06:58.47,GJM_Main,,0,0,0,,{\i1}I wonder why I shouldn't invite him...
+Dialogue: 10,0:07:02.46,0:07:04.07,GJM_Main,,0,0,0,,Hey, Naho!
+Dialogue: 10,0:07:07.52,0:07:09.07,GJM_Main,,0,0,0,,So, intros.
+Dialogue: 10,0:07:09.07,0:07:11.57,GJM_Main,,0,0,0,,This guy's Hagita. Hagita Saku.
+Dialogue: 10,0:07:11.77,0:07:14.35,GJM_Main,,0,0,0,,This is Naho. Takamiya Naho.
+Dialogue: 10,0:07:14.35,0:07:16.33,GJM_Main,,0,0,0,,And that there's Chino Takako.
+Dialogue: 10,0:07:16.33,0:07:17.33,GJM_Main,,0,0,0,,Nice to meet you.
+Dialogue: 10,0:07:17.33,0:07:19.09,GJM_Main,,0,0,0,,And I'm Suwa Hiroto.
+Dialogue: 10,0:07:19.09,0:07:20.34,GJM_Main,,0,0,0,,Call me Suwa.
+Dialogue: 10,0:07:20.34,0:07:21.47,GJM_Main,,0,0,0,,Got it.
+Dialogue: 10,0:07:21.47,0:07:23.61,GJM_Main,,0,0,0,,Hey! Wait!
+Dialogue: 10,0:07:23.61,0:07:25.21,GJM_Main,,0,0,0,,Come on, Azu! I'm starving!
+Dialogue: 10,0:07:25.21,0:07:28.34,GJM_Main,,0,0,0,,Sorry! It'll finish baking soon.
+Dialogue: 10,0:07:28.69,0:07:30.50,GJM_Main,,0,0,0,,I'll have to get it later.
+Dialogue: 10,0:07:30.50,0:07:32.40,GJM_Main,,0,0,0,,And little miss baker is Murasaka Azusa.
+Dialogue: 10,0:07:33.00,0:07:34.83,GJM_Main,,0,0,0,,Call me Azu.
+Dialogue: 10,0:07:34.83,0:07:35.47,GJM_Main,,0,0,0,,Azusa...
+Dialogue: 10,0:07:35.78,0:07:37.47,GJM_Main,,0,0,0,,Oh, did you notice?
+Dialogue: 10,0:07:38.09,0:07:41.23,GJM_Main,,0,0,0,,Kakeru-kun, which train\Ndid you ride here from Tokyo?
+Dialogue: 10,0:07:42.32,0:07:43.73,GJM_Main,,0,0,0,,The Azusa limited express.
+Dialogue: 10,0:07:46.32,0:07:48.45,GJM_Main,,0,0,0,,I knew it! That's hilarious!
+Dialogue: 10,0:07:48.45,0:07:51.88,GJM_Main,,0,0,0,,Kakeru-kun, do you know the song\N"Azusa 2" by The Hunters?
+Dialogue: 10,0:07:51.88,0:07:54.17,GJM_Main,,0,0,0,,Oh, so that's why?
+Dialogue: 10,0:07:54.17,0:07:57.79,GJM_Main,,0,0,0,,Exactly! That's why my nickname\Nin middle school was...
+Dialogue: 10,0:07:59.02,0:08:00.48,GJM_Main,,0,0,0,,"The Hunter"!
+Dialogue: 10,0:08:00.48,0:08:02.33,GJM_Main,,0,0,0,,Not "Azusa 2"?
+Dialogue: 10,0:08:02.33,0:08:04.29,GJM_Main,,0,0,0,,Later, it changed to "Huntsman."
+Dialogue: 10,0:08:04.87,0:08:07.79,GJM_Main,,0,0,0,,And yours was "Crooked Glasses,"
+Dialogue: 10,0:08:07.79,0:08:09.69,GJM_Main,,0,0,0,,because they were always\Ncrooked to the right!
+Dialogue: 10,0:08:10.56,0:08:11.50,GJM_Main,,0,0,0,,Oh, shut up.
+Dialogue: 10,0:08:11.50,0:08:13.51,GJM_Main,,0,0,0,,Take off at 8:00 sharp on the Azusa.
+Dialogue: 10,0:08:13.51,0:08:16.77,GJM_Main,,0,0,0,,But the Azusa 2 doesn't leave at 8:00 sharp.
+Dialogue: 10,0:08:13.51,0:08:14.89,GJM_Overlap,,0,0,0,,{\an8}To Shinjuku?
+Dialogue: 10,0:08:14.89,0:08:15.55,GJM_Overlap,,0,0,0,,{\an8}Somewhere further.
+Dialogue: 10,0:08:15.55,0:08:16.48,GJM_Overlap,,0,0,0,,{\an8}I don't have the money for that.
+Dialogue: 10,0:08:16.48,0:08:17.51,GJM_Overlap,,0,0,0,,{\an8}Just go.
+Dialogue: 10,0:08:16.77,0:08:19.18,GJM_Main,,0,0,0,,The other night, my dad\Nsang "Azusa 2" at karaoke.
+Dialogue: 10,0:08:17.51,0:08:18.14,GJM_Overlap,,0,0,0,,{\an8}Where?!
+Dialogue: 10,0:08:18.14,0:08:20.12,GJM_Overlap,,0,0,0,,{\an8}Mount Yari. Carry a deer back.
+Dialogue: 10,0:08:19.49,0:08:20.54,GJM_Main,,0,0,0,,The music video played.
+Dialogue: 10,0:08:20.12,0:08:22.17,GJM_Overlap,,0,0,0,,{\an8}Not happening. I can't carry a deer.
+Dialogue: 10,0:08:21.39,0:08:23.25,GJM_Main,,0,0,0,,What, really? I wanna see it.
+Dialogue: 10,0:08:23.25,0:08:26.34,GJM_Main,,0,0,0,,You guys are really running\Nwith the "hunter" thing...
+Dialogue: 10,0:08:26.34,0:08:28.98,GJM_Main,,0,0,0,,You're making it awkward for Kakeru-kun. See?
+Dialogue: 10,0:08:34.95,0:08:35.57,GJM_Main,,0,0,0,,He's laughing!
+Dialogue: 10,0:08:35.57,0:08:36.30,GJM_Main,,0,0,0,,He's laughing...
+Dialogue: 10,0:08:36.87,0:08:38.00,GJM_Main,,0,0,0,,What was the funniest part?
+Dialogue: 10,0:08:38.73,0:08:39.32,GJM_Main,,0,0,0,,"Huntsman."
+Dialogue: 10,0:08:39.32,0:08:40.20,GJM_Main,,0,0,0,,All of things?!
+Dialogue: 10,0:08:41.91,0:08:43.21,GJM_Main,,0,0,0,,{\i1}Look at that.
+Dialogue: 10,0:08:45.20,0:08:46.78,GJM_Main,,0,0,0,,{\i1}I'm glad we invited him.
+Dialogue: 10,0:08:51.11,0:08:54.30,GJM_Main,,0,0,0,,Sorry for the wait! I got the goods!
+Dialogue: 10,0:08:54.63,0:08:55.38,GJM_Main,,0,0,0,,Behold!
+Dialogue: 10,0:08:55.38,0:08:58.35,GJM_Main,,0,0,0,,We've got cutlet buns, pork miso buns, curry buns,
+Dialogue: 10,0:08:58.35,0:09:01.37,GJM_Main,,0,0,0,,mustard-greens buns, melon buns,\Nand apple cinnamon rolls here.
+Dialogue: 10,0:09:01.91,0:09:04.14,GJM_Main,,0,0,0,,Today I've got two of each, all freshly baked.
+Dialogue: 10,0:09:04.77,0:09:06.65,GJM_Main,,0,0,0,,My dad's bread is the best in the world!
+Dialogue: 10,0:09:07.85,0:09:09.65,GJM_Main,,0,0,0,,It's unrivaled!
+Dialogue: 10,0:09:10.86,0:09:13.22,GJM_Main,,0,0,0,,Which do you want, Kakeru-kun?
+Dialogue: 10,0:09:13.22,0:09:14.41,GJM_Main,,0,0,0,,Anything's fine with me,
+Dialogue: 10,0:09:14.41,0:09:16.83,GJM_Main,,0,0,0,,though I am curious about\Nthe mustard-greens bun.
+Dialogue: 10,0:09:16.83,0:09:18.41,GJM_Main,,0,0,0,,It's great. Try it.
+Dialogue: 10,0:09:18.41,0:09:19.78,GJM_Main,,0,0,0,,Dibs on the other mustard-greens bun!
+Dialogue: 10,0:09:19.78,0:09:21.58,GJM_Main,,0,0,0,,In your dreams! This one's mine!
+Dialogue: 10,0:09:21.58,0:09:22.29,GJM_Main,,0,0,0,,Give it back, Hagita!
+Dialogue: 10,0:09:22.29,0:09:23.91,GJM_Main,,0,0,0,,I'll have an apple cinnamon roll.
+Dialogue: 10,0:09:23.91,0:09:24.94,GJM_Main,,0,0,0,,I'll take a curry bun.
+Dialogue: 10,0:09:24.94,0:09:25.37,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:09:25.37,0:09:26.27,GJM_Main,,0,0,0,,And your other one?
+Dialogue: 10,0:09:26.27,0:09:27.01,GJM_Main,,0,0,0,,Cutlet bun.
+Dialogue: 10,0:09:27.01,0:09:28.12,GJM_Main,,0,0,0,,Sure.
+Dialogue: 10,0:09:28.12,0:09:31.09,GJM_Main,,0,0,0,,{\i1}I love the curry buns from Azu's family's bakery.
+Dialogue: 10,0:09:32.42,0:09:35.17,GJM_Main,,0,0,0,,How about you, Naho? What do you want?
+Dialogue: 10,0:09:33.79,0:09:36.53,GJM_Main,,0,0,0,,{\an8}Hey, Hagita, that's {\i1}my{\i0} curry bun.
+Dialogue: 10,0:09:36.53,0:09:38.18,GJM_Main,,0,0,0,,You can eat them anytime you want!
+Dialogue: 10,0:09:38.18,0:09:39.88,GJM_Main,,0,0,0,,{\an8}I don't want you to have it.
+Dialogue: 10,0:09:38.18,0:09:39.88,GJM_Main,,0,0,0,,I'm fine with anything.
+Dialogue: 10,0:09:39.88,0:09:40.87,GJM_Main,,0,0,0,,{\an8}Give it.
+Dialogue: 10,0:09:40.22,0:09:41.81,GJM_Main,,0,0,0,,Really? No need to hold back, you know.
+Dialogue: 10,0:09:41.81,0:09:43.45,GJM_Main,,0,0,0,,Really, really.
+Dialogue: 10,0:09:43.45,0:09:45.55,GJM_Main,,0,0,0,,Okay, since you like sweet stuff,
+Dialogue: 10,0:09:45.55,0:09:47.47,GJM_Main,,0,0,0,,you get a melon bun and an apple cinnamon roll.
+Dialogue: 10,0:09:47.47,0:09:48.62,GJM_Main,,0,0,0,,Thanks.
+Dialogue: 10,0:09:48.62,0:09:49.99,GJM_Main,,0,0,0,,Not enough for you, Suwa?
+Dialogue: 10,0:09:49.99,0:09:51.69,GJM_Main,,0,0,0,,I wouldn't mind another three or four.
+Dialogue: 10,0:09:51.69,0:09:53.94,GJM_Main,,0,0,0,,Come buy more later, then.
+Dialogue: 10,0:09:57.22,0:09:58.01,GJM_Main,,0,0,0,,Curry bun.
+Dialogue: 10,0:09:59.60,0:10:02.15,GJM_Main,,0,0,0,,I'll trade you for the melon bun.
+Dialogue: 10,0:10:02.95,0:10:05.02,GJM_Main,,0,0,0,,S-Sure.
+Dialogue: 10,0:10:06.86,0:10:08.74,GJM_Main,,0,0,0,,{\i1}Don't tell me he figured it out?
+Dialogue: 10,0:10:09.97,0:10:12.18,GJM_Main,,0,0,0,,{\i1}Was it that obvious I wanted the curry bun?
+Dialogue: 10,0:10:54.16,0:10:55.58,GJM_Main,,0,0,0,,See you tomorrow.
+Dialogue: 10,0:10:55.58,0:10:57.55,GJM_Main,,0,0,0,,Bring more curry buns next time.
+Dialogue: 10,0:10:57.55,0:10:59.06,GJM_Main,,0,0,0,,Kakeru-kun, did you like the bread?
+Dialogue: 10,0:10:59.06,0:11:00.51,GJM_Main,,0,0,0,,Oh... Yeah, I did.
+Dialogue: 10,0:11:00.51,0:11:01.80,GJM_Main,,0,0,0,,Later, everyone.
+Dialogue: 10,0:11:01.80,0:11:03.73,GJM_Main,,0,0,0,,Later! Bye-bye!
+Dialogue: 10,0:11:03.73,0:11:04.56,GJM_Main,,0,0,0,,Later.
+Dialogue: 10,0:11:07.51,0:11:09.42,GJM_Main,,0,0,0,,Oh, Kakeru-kun.
+Dialogue: 10,0:11:10.49,0:11:12.26,GJM_Main,,0,0,0,,Is it okay if we just call you "Kakeru"?
+Dialogue: 10,0:11:12.26,0:11:14.06,GJM_Main,,0,0,0,,Sure. I prefer that.
+Dialogue: 10,0:11:29.69,0:11:31.10,GJM_Main,,0,0,0,,Oh right, the letter.
+Dialogue: 10,0:11:42.48,0:11:43.59,GJM_Main,,0,0,0,,{\i1}They say the same thing.
+Dialogue: 10,0:11:44.58,0:11:45.74,GJM_Main,,0,0,0,,{\i1}Even the handwriting's the same.
+Dialogue: 10,0:11:57.44,0:11:58.65,GJM_Main,,0,0,0,,What, why?
+Dialogue: 10,0:11:58.65,0:11:59.88,GJM_Main,,0,0,0,,My sister came up with it.
+Dialogue: 10,0:11:59.88,0:12:01.74,GJM_Main,,0,0,0,,Something about seeing\Nsomething on the cat's butt.
+Dialogue: 10,0:12:01.74,0:12:02.51,GJM_Main,,0,0,0,,Seriously?
+Dialogue: 10,0:12:02.51,0:12:03.69,GJM_Main,,0,0,0,,Yeah, no problem.
+Dialogue: 10,0:12:05.54,0:12:07.00,GJM_Main,,0,0,0,,Kakeru-kun is absent?
+Dialogue: 10,0:12:07.00,0:12:08.18,GJM_Main,,0,0,0,,I dunno.
+Dialogue: 10,0:12:08.18,0:12:10.29,GJM_Main,,0,0,0,,I forgot to ask for his number.
+Dialogue: 10,0:12:10.29,0:12:11.66,GJM_Main,,0,0,0,,I wonder what's up.
+Dialogue: 10,0:12:11.66,0:12:13.11,GJM_Main,,0,0,0,,What, curious?
+Dialogue: 10,0:12:13.11,0:12:15.17,GJM_Main,,0,0,0,,Huh? N-No...
+Dialogue: 10,0:12:19.60,0:12:23.55,GJM_Main,,0,0,0,,{\i1}Kakeru-kun didn't come to school for some time.
+Dialogue: 10,0:12:23.55,0:12:27.55,GJM_Main,,0,0,0,,In other words, this is a new number\Nthat results from the square root of -1.
+Dialogue: 10,0:12:27.55,0:12:31.19,GJM_Main,,0,0,0,,My goal is to make childhood dreams come true.
+Dialogue: 10,0:12:31.19,0:12:31.80,GJM_Main,,0,0,0,,{\i1}The letter...
+Dialogue: 10,0:12:31.80,0:12:32.56,GJM_Main,,0,0,0,,My goal...
+Dialogue: 10,0:12:36.56,0:12:37.52,GJM_Main,,0,0,0,,{\i1}That day...
+Dialogue: 10,0:12:39.57,0:12:41.39,GJM_Main,,0,0,0,,{\i1}I didn't do as the letter said.
+Dialogue: 10,0:12:42.65,0:12:46.79,GJM_Main,,0,0,0,,{\i1}I wonder if it has anything to do\Nwith why Kakeru-kun is absent.
+Dialogue: 10,0:12:47.89,0:12:53.08,GJM_Main,,0,0,0,,{\i1}Maybe this letter explains why Kakeru-kun\Nhasn't been coming to school.
+Dialogue: 10,0:13:01.03,0:13:08.53,GJM_Main,,0,0,0,,In the Azumi Basin, flowers bloom into apples.
+Dialogue: 10,0:13:08.53,0:13:12.99,GJM_Main,,0,0,0,,The mist rolls in, and wets the hair.
+Dialogue: 10,0:13:12.99,0:13:17.53,GJM_Main,,0,0,0,,The girl from Shinano has wet hair.
+Dialogue: 10,0:13:18.62,0:13:21.94,GJM_Main,,0,0,0,,Kakeru-kun—er, I mean, Kakeru!
+Dialogue: 10,0:13:22.87,0:13:23.61,GJM_Main,,0,0,0,,Hey!
+Dialogue: 10,0:13:23.61,0:13:24.72,GJM_Main,,0,0,0,,Yo, Kakeru!
+Dialogue: 10,0:13:24.72,0:13:25.64,GJM_Main,,0,0,0,,How're you feeling?
+Dialogue: 10,0:13:26.61,0:13:29.61,GJM_Main,,0,0,0,,Where have you been for the past two weeks?
+Dialogue: 10,0:13:29.61,0:13:30.58,GJM_Main,,0,0,0,,Ditching.
+Dialogue: 10,0:13:30.58,0:13:31.49,GJM_Main,,0,0,0,,Oh?
+Dialogue: 10,0:13:31.80,0:13:33.67,GJM_Main,,0,0,0,,That's not what's going on here.
+Dialogue: 10,0:13:33.67,0:13:34.50,GJM_Main,,0,0,0,,You think this is the west?
+Dialogue: 10,0:13:34.50,0:13:35.22,GJM_Overlap,,0,0,95,,We won!
+Dialogue: 10,0:13:34.50,0:13:36.25,GJM_Main,,0,0,0,,Easy win! Easy win!
+Dialogue: 10,0:13:36.25,0:13:37.92,GJM_Main,,0,0,0,,Our team's in good hands with Naho in it.
+Dialogue: 10,0:13:37.92,0:13:40.41,GJM_Main,,0,0,0,,You pitch like nobody else.\NI can tell you were on the softball team.
+Dialogue: 10,0:13:40.41,0:13:42.25,GJM_Main,,0,0,0,,That was just in middle school.
+Dialogue: 10,0:13:42.63,0:13:44.45,GJM_Main,,0,0,0,,I bet you're tired after pitching so much.
+Dialogue: 10,0:13:44.45,0:13:45.53,GJM_Main,,0,0,0,,Nah.
+Dialogue: 10,0:13:45.53,0:13:46.26,GJM_Main,,0,0,0,,Time to clean up.
+Dialogue: 10,0:13:46.64,0:13:48.51,GJM_Main,,0,0,0,,We'll take care of it, so just relax.
+Dialogue: 10,0:13:48.92,0:13:50.76,GJM_Main,,0,0,0,,We've got this. We're gonna win.
+Dialogue: 10,0:13:53.52,0:13:54.53,GJM_Main,,0,0,0,,Nagasaka!
+Dialogue: 10,0:13:55.32,0:13:56.54,GJM_Main,,0,0,0,,Pass to Nakayama!
+Dialogue: 10,0:13:58.53,0:13:59.62,GJM_Main,,0,0,0,,{\i1}It's Suwa and the others.
+Dialogue: 10,0:14:01.78,0:14:05.44,GJM_Main,,0,0,0,,Oh, Kakeru-kun... I mean, Kakeru!
+Dialogue: 10,0:14:06.87,0:14:08.84,GJM_Main,,0,0,0,,Which event did you sign up for?
+Dialogue: 10,0:14:13.64,0:14:15.16,GJM_Main,,0,0,0,,I'm not playing anything.
+Dialogue: 10,0:14:15.16,0:14:16.46,GJM_Main,,0,0,0,,What? Why?
+Dialogue: 10,0:14:16.84,0:14:18.59,GJM_Main,,0,0,0,,I haven't been to class at all.
+Dialogue: 10,0:14:18.59,0:14:20.08,GJM_Main,,0,0,0,,You didn't have to worry about that.
+Dialogue: 10,0:14:22.75,0:14:24.20,GJM_Main,,0,0,0,,What'd you pick?
+Dialogue: 10,0:14:24.20,0:14:25.37,GJM_Main,,0,0,0,,Softball.
+Dialogue: 10,0:14:35.63,0:14:36.40,GJM_Main,,0,0,0,,Does it hurt?
+Dialogue: 10,0:14:38.69,0:14:40.11,GJM_Main,,0,0,0,,Oh, yeah.
+Dialogue: 10,0:14:40.11,0:14:41.86,GJM_Main,,0,0,0,,My shoes are too small.
+Dialogue: 10,0:14:41.86,0:14:42.59,GJM_Main,,0,0,0,,Too small?
+Dialogue: 10,0:14:43.11,0:14:46.70,GJM_Main,,0,0,0,,For some reason, they got my\Nsize wrong when I ordered them.
+Dialogue: 10,0:14:47.36,0:14:48.67,GJM_Main,,0,0,0,,You didn't exchange them?
+Dialogue: 10,0:14:49.38,0:14:51.25,GJM_Main,,0,0,0,,I missed my chance to bring it up.
+Dialogue: 10,0:14:59.15,0:15:01.33,GJM_Main,,0,0,0,,So Suwa plays soccer, huh?
+Dialogue: 10,0:15:01.83,0:15:03.84,GJM_Main,,0,0,0,,Stay on your marks!
+Dialogue: 10,0:15:02.81,0:15:03.84,GJM_Overlap,,0,0,0,,Here, Hagita.
+Dialogue: 10,0:15:03.84,0:15:04.86,GJM_Main,,0,0,0,,Huh, me?
+Dialogue: 10,0:15:06.69,0:15:09.59,GJM_Main,,0,0,0,,Jeez... Hagita-kun sucks.
+Dialogue: 10,0:15:12.42,0:15:13.76,GJM_Main,,0,0,0,,Naho!
+Dialogue: 10,0:15:14.60,0:15:16.26,GJM_Main,,0,0,0,,We're starting!
+Dialogue: 10,0:15:16.26,0:15:18.23,GJM_Main,,0,0,0,,Okay! Well, I'm off.
+Dialogue: 10,0:15:18.23,0:15:18.60,GJM_Main,,0,0,0,,Sure.
+Dialogue: 10,0:15:21.30,0:15:24.49,GJM_Main,,0,0,0,,Man, I haven't eaten anything today!
+Dialogue: 10,0:15:24.49,0:15:25.61,GJM_Main,,0,0,0,,Liar.
+Dialogue: 10,0:15:25.61,0:15:27.36,GJM_Main,,0,0,0,,What? They changed their pitcher?
+Dialogue: 10,0:15:27.36,0:15:29.24,GJM_Main,,0,0,0,,She's on the softball team!
+Dialogue: 10,0:15:27.65,0:15:28.26,GJM_Overlap,,0,0,0,,Now?
+Dialogue: 10,0:15:30.74,0:15:33.09,GJM_Main,,0,0,0,,{\an8}Strike! Batter out!
+Dialogue: 10,0:15:32.30,0:15:35.61,GJM_Main,,0,0,0,,No fair, putting a pitcher\Nlike that in for the final match.
+Dialogue: 10,0:15:35.61,0:15:37.62,GJM_Main,,0,0,0,,I'll never get a hit.
+Dialogue: 10,0:15:36.37,0:15:37.62,GJM_Overlap,,0,0,0,,What's with that pitcher?
+Dialogue: 10,0:15:38.24,0:15:39.28,GJM_Main,,0,0,0,,Amazing.
+Dialogue: 10,0:15:39.28,0:15:40.78,GJM_Main,,0,0,0,,It'll be a piece of cake!
+Dialogue: 10,0:15:40.78,0:15:42.37,GJM_Main,,0,0,0,,Or maybe not.
+Dialogue: 10,0:15:42.37,0:15:43.63,GJM_Main,,0,0,0,,Time out!
+Dialogue: 10,0:15:45.02,0:15:46.25,GJM_Main,,0,0,0,,{\i1}Oh, yeah...
+Dialogue: 10,0:15:53.12,0:15:54.63,GJM_Main,,0,0,0,,Naho! Pinch hit for us?
+Dialogue: 10,0:15:54.63,0:15:56.17,GJM_Main,,0,0,0,,This is the last thing we'll ever ask of you!
+Dialogue: 10,0:15:56.17,0:15:57.36,GJM_Main,,0,0,0,,{\i1}It's really happening!
+Dialogue: 10,0:15:57.36,0:15:58.34,GJM_Main,,0,0,0,,But...
+Dialogue: 10,0:15:58.34,0:16:02.24,GJM_Main,,0,0,0,,If you slam us one, our victory is assured!
+Dialogue: 10,0:16:02.24,0:16:04.54,GJM_Main,,0,0,0,,You were on the softball team. You can hit it.
+Dialogue: 10,0:16:04.54,0:16:05.83,GJM_Main,,0,0,0,,Please!
+Dialogue: 10,0:16:10.86,0:16:13.03,GJM_Main,,0,0,0,,{\i1}Two outs, bases loaded.
+Dialogue: 10,0:16:13.03,0:16:14.75,GJM_Main,,0,0,0,,{\i1}If I get a hit, we'll win.
+Dialogue: 10,0:16:14.75,0:16:17.53,GJM_Main,,0,0,0,,{\i1}But if I get called out, we'll lose.
+Dialogue: 10,0:16:20.54,0:16:21.51,GJM_Main,,0,0,0,,{\i1}I can't do this.
+Dialogue: 10,0:16:22.54,0:16:25.70,GJM_Main,,0,0,0,,I-I'm sorry. I don't think\NI can get a hit off her, either.
+Dialogue: 10,0:16:25.70,0:16:27.48,GJM_Main,,0,0,0,,What? Please!
+Dialogue: 10,0:16:27.48,0:16:28.57,GJM_Main,,0,0,0,,Don't force her.
+Dialogue: 10,0:16:31.05,0:16:32.66,GJM_Main,,0,0,0,,Her foot is hurt.
+Dialogue: 10,0:16:32.66,0:16:35.40,GJM_Main,,0,0,0,,What? Hurt? Naho, is that true?
+Dialogue: 10,0:16:35.40,0:16:36.05,GJM_Main,,0,0,0,,What happened?
+Dialogue: 10,0:16:36.52,0:16:38.63,GJM_Main,,0,0,0,,No, it isn't an injury.
+Dialogue: 10,0:16:39.18,0:16:41.28,GJM_Main,,0,0,0,,And besides, it's my own fault.
+Dialogue: 10,0:16:41.28,0:16:42.56,GJM_Main,,0,0,0,,Then I'll take a crack at it!
+Dialogue: 10,0:16:43.10,0:16:45.56,GJM_Main,,0,0,0,,Just forgive me if I strike out, okay?
+Dialogue: 10,0:16:49.32,0:16:50.67,GJM_Main,,0,0,0,,{\i1}Is it okay to say no?
+Dialogue: 10,0:16:53.94,0:16:59.30,GJM_Main,,0,0,0,,{\i1}The reason I regret refusing must be because\NI forced the responsibility onto my friend,
+Dialogue: 10,0:17:01.64,0:17:05.22,GJM_Main,,0,0,0,,{\i1}and didn't do something I knew I could do.
+Dialogue: 10,0:17:06.88,0:17:10.59,GJM_Main,,0,0,0,,A-Actually, I'll do it!
+Dialogue: 10,0:17:12.18,0:17:13.04,GJM_Main,,0,0,0,,{\i1}Naho?
+Dialogue: 10,0:17:15.34,0:17:18.33,GJM_Main,,0,0,0,,{\i1}The pain in my foot will fade eventually.
+Dialogue: 10,0:17:19.64,0:17:22.10,GJM_Main,,0,0,0,,{\i1}But the regret won't.
+Dialogue: 10,0:17:23.10,0:17:24.20,GJM_Main,,0,0,0,,{\i1}Not even in ten years.
+Dialogue: 10,0:17:26.25,0:17:28.61,GJM_Main,,0,0,0,,{\i1}The me of the present doesn't want
+Dialogue: 10,0:17:29.74,0:17:32.53,GJM_Main,,0,0,0,,{\i1}to live the next ten years regretting this!
+Dialogue: 10,0:17:46.60,0:17:47.75,GJM_Main,,0,0,0,,{\i1}The second pitch will be...
+Dialogue: 10,0:17:48.59,0:17:49.50,GJM_Main,,0,0,0,,{\i1}inside...
+Dialogue: 10,0:17:50.23,0:17:51.00,GJM_Main,,0,0,0,,{\i1}and low.
+Dialogue: 10,0:18:09.23,0:18:11.51,GJM_Main,,0,0,0,,Hot damn, Naho!
+Dialogue: 10,0:18:11.51,0:18:14.15,GJM_Main,,0,0,0,,Naho, you gotta run!\NYou haven't crossed home yet!
+Dialogue: 10,0:18:14.15,0:18:14.65,GJM_Main,,0,0,0,,Oh!
+Dialogue: 10,0:18:15.02,0:18:17.15,GJM_Main,,0,0,0,,MVP!
+Dialogue: 10,0:18:17.15,0:18:22.05,GJM_Main,,0,0,0,,We did it! We did it! Go! Go! Run the bases!
+Dialogue: 10,0:18:29.42,0:18:33.17,GJM_Main,,0,0,0,,{\i1}Our class won at softball.
+Dialogue: 10,0:18:33.17,0:18:37.42,GJM_Main,,0,0,0,,{\i1}And our soccer team apparently\Nhad a brilliant win too, thanks to Suwa.
+Dialogue: 10,0:18:51.26,0:18:52.44,GJM_Main,,0,0,0,,Ambulance here.
+Dialogue: 10,0:18:53.77,0:18:54.87,GJM_Main,,0,0,0,,Show me your foot.
+Dialogue: 10,0:18:55.53,0:18:57.01,GJM_Main,,0,0,0,,That's okay.
+Dialogue: 10,0:18:57.01,0:18:58.38,GJM_Main,,0,0,0,,Take a seat over there.
+Dialogue: 10,0:19:02.73,0:19:05.19,GJM_Main,,0,0,0,,You've got a blister. I'm going to disinfect it.
+Dialogue: 10,0:19:05.19,0:19:06.21,GJM_Main,,0,0,0,,Ow!
+Dialogue: 10,0:19:06.21,0:19:09.40,GJM_Main,,0,0,0,,You need to tell them they got the wrong size.
+Dialogue: 10,0:19:09.40,0:19:10.20,GJM_Main,,0,0,0,,Yeah...
+Dialogue: 10,0:19:10.94,0:19:14.04,GJM_Main,,0,0,0,,But it's only for P.E., so it's not really a problem.
+Dialogue: 10,0:19:14.66,0:19:17.19,GJM_Main,,0,0,0,,It's too late now, anyway.
+Dialogue: 10,0:19:17.19,0:19:18.58,GJM_Main,,0,0,0,,I'll just endure it.
+Dialogue: 10,0:19:18.58,0:19:21.54,GJM_Main,,0,0,0,,Endure too much, and it'll be your loss.
+Dialogue: 10,0:19:24.11,0:19:27.83,GJM_Main,,0,0,0,,I prefer it if it's just my loss.
+Dialogue: 10,0:19:30.06,0:19:32.38,GJM_Main,,0,0,0,,As long as I'm not a bother to others.
+Dialogue: 10,0:19:38.08,0:19:42.25,GJM_Main,,0,0,0,,Nobody can tell, so if I just endure it,\Nthere's no problem, right?
+Dialogue: 10,0:19:42.88,0:19:44.68,GJM_Main,,0,0,0,,That's how I've always handled things.
+Dialogue: 10,0:19:47.08,0:19:49.08,GJM_Main,,0,0,0,,I know. I've seen.
+Dialogue: 10,0:19:58.93,0:20:01.39,GJM_Main,,0,0,0,,There, all done. Take care.
+Dialogue: 10,0:20:01.39,0:20:02.32,GJM_Main,,0,0,0,,Thank you.
+Dialogue: 10,0:20:02.32,0:20:02.87,GJM_Main,,0,0,0,,No problem.
+Dialogue: 10,0:20:07.60,0:20:10.85,GJM_Main,,0,0,0,,You too, Kakeru!
+Dialogue: 10,0:20:11.23,0:20:13.85,GJM_Main,,0,0,0,,If you want to play soccer, you have to say so!
+Dialogue: 10,0:20:15.04,0:20:16.11,GJM_Main,,0,0,0,,I've been...
+Dialogue: 10,0:20:17.30,0:20:19.36,GJM_Main,,0,0,0,,watching you, too, Kakeru!
+Dialogue: 10,0:20:22.77,0:20:24.22,GJM_Main,,0,0,0,,Your home run...
+Dialogue: 10,0:20:25.36,0:20:26.37,GJM_Main,,0,0,0,,was pretty cool.
+Dialogue: 10,0:20:27.14,0:20:30.83,GJM_Main,,0,0,0,,Next year, I'll be sure to play soccer.
+Dialogue: 10,0:20:30.83,0:20:32.87,GJM_Main,,0,0,0,,I'm better than Suwa, so be sure to watch.
+Dialogue: 10,0:20:32.87,0:20:34.67,GJM_Main,,0,0,0,,I will. I promise.
+Dialogue: 10,0:20:42.22,0:20:46.59,GJM_Main,,0,0,0,,{\i1}Everything written in that letter really does happen.
+Dialogue: 10,0:20:48.14,0:20:53.44,GJM_Main,,0,0,0,,{\i1}To the me ten years in the future,\Ndo you have one less regret now?
+Dialogue: 10,0:20:54.16,0:20:55.23,GJM_Main,,0,0,0,,Naho!
+Dialogue: 10,0:20:57.31,0:20:59.05,GJM_Main,,0,0,0,,Look at these flowers. Beautiful, right?
+Dialogue: 10,0:20:59.05,0:21:01.02,GJM_Main,,0,0,0,,What's that bouquet for?
+Dialogue: 10,0:21:01.02,0:21:02.28,GJM_Main,,0,0,0,,It's for Kakeru.
+Dialogue: 10,0:21:03.54,0:21:05.66,GJM_Main,,0,0,0,,He doesn't care about stuff like that.
+Dialogue: 10,0:21:05.66,0:21:06.67,GJM_Main,,0,0,0,,It's fine.
+Dialogue: 10,0:21:14.52,0:21:17.62,GJM_Main,,0,0,0,,{\i1}To the me of the past, ten years ago.
+Dialogue: 10,0:21:19.21,0:21:24.46,GJM_Main,,0,0,0,,{\i1}You've got a lot of happiness and joy ahead of you.
+Dialogue: 10,0:21:26.29,0:21:29.42,GJM_Main,,0,0,0,,{\i1}I hope you can sense that happiness.
+Dialogue: 10,0:21:30.54,0:21:34.11,GJM_Main,,0,0,0,,{\i1}I hope you don't let it slip away from you.
+Dialogue: 10,0:21:36.42,0:21:40.28,GJM_Main,,0,0,0,,{\i1}I wrote this letter because\NI don't want you, my 16-year-old self,
+Dialogue: 10,0:21:40.83,0:21:43.68,GJM_Main,,0,0,0,,{\i1}to have regrets you'll carry\Nwith you for the rest of your life.
+Comment: 0,0:21:43.68,0:21:45.68,GJM_Main,,0,0,0,,OP

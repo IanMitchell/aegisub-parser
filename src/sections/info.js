@@ -3,7 +3,7 @@ class Info {
     this.data = new Map();
   }
 
-  static registerHeaders() {
+  registerHeaders() {
     return [
       'Script Info',
     ];

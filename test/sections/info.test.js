@@ -6,8 +6,9 @@ const infoFile = path.join(__dirname, '../files/info.ass');
 describe('Info Parser', () => {
   test('Registers correct headers', () => {
     const Info = require('../../src/sections/info');
+    const info = new Info();
 
-    expect(Info.registerHeaders()).toHaveLength(1);
+    expect(info.registerHeaders()).toHaveLength(1);
   });
 
   test('getValue returns Map', () => {

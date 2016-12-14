@@ -6,8 +6,9 @@ const garbageFile = path.join(__dirname, '../files/garbage.ass');
 describe('Garbage Parser', () => {
   test('Registers correct headers', () => {
     const Garbage = require('../../src/sections/garbage');
+    const garbage = new Garbage();
 
-    expect(Garbage.registerHeaders()).toHaveLength(1);
+    expect(garbage.registerHeaders()).toHaveLength(1);
   });
 
   test('getValue returns Map', () => {

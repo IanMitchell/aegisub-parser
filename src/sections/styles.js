@@ -6,7 +6,7 @@ class Styles {
     this.styles = new Map();
   }
 
-  static registerHeaders() {
+  registerHeaders() {
     return [
       'V4+ Styles',
     ];

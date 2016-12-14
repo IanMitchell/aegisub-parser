@@ -8,8 +8,9 @@ const stylesFile = path.join(__dirname, '../files/styles.ass');
 describe('Styles Parser', () => {
   test('Correctly parses header', () => {
     const Styles = require('../../src/sections/styles');
+    const styles = new Styles();
 
-    expect(Styles.registerHeaders()).toHaveLength(1);
+    expect(styles.registerHeaders()).toHaveLength(1);
   });
 
   test('Correctly flags invalid declarations', () => {

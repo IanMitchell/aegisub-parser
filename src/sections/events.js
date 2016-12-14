@@ -7,7 +7,7 @@ class Events {
     this.events = [];
   }
 
-  static registerHeaders() {
+  registerHeaders() {
     return [
       'Events',
     ];

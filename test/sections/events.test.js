@@ -8,8 +8,9 @@ const eventsFile = path.join(__dirname, '../files/events.ass');
 describe('Events Parser', () => {
   test('Correctly parses header', () => {
     const Events = require('../../src/sections/events');
+    const event = new Events();
 
-    expect(Events.registerHeaders()).toHaveLength(1);
+    expect(event.registerHeaders()).toHaveLength(1);
   });
 
   test('Correctly flags invalid definitions', () => {

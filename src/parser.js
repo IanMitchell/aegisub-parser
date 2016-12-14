@@ -1,28 +1,22 @@
 const fs = require('fs');
-const path = require('path');
 const readline = require('readline');
+const sections = require('./sections');
 
 class AegisubScript {
   constructor() {
     this.parsers = new Map();
 
     // Load Section Parsers
-    const directory = path.join(__dirname, 'sections/');
-    const files = fs.readdirSync(directory);
+    Object.keys(sections).forEach((key) => {
+      const parser = new sections[key]();
 
-    files.forEach(file => {
-      if (file.endsWith('.js')) {
-        const SectionParser = require(path.join(directory, file));
-        const parser = new SectionParser();
-
-        SectionParser.registerHeaders().forEach(header => {
-          if (this.parsers.has(header)) {
-            this.parsers.set(header, [parser, ...this.parsers.get(header)]);
-          } else {
-            this.parsers.set(header, [parser]);
-          }
-        });
-      }
+      parser.registerHeaders().forEach((header) => {
+        if (this.parsers.has(header)) {
+          this.parsers.set(header, [parser, ...this.parsers.get(header)]);
+        } else {
+          this.parsers.set(header, [parser]);
+        }
+      });
     });
   }
 
@@ -36,7 +30,7 @@ class AegisubScript {
 
       let currentSection = null;
 
-      rl.on('line', line => {
+      rl.on('line', (line) => {
         const val = line.trim();
 
         // Ignore Comments
@@ -52,7 +46,7 @@ class AegisubScript {
 
         // Run relevant parsers
         if (script.parsers.has(currentSection)) {
-          script.parsers.get(currentSection).forEach(parser => {
+          script.parsers.get(currentSection).forEach((parser) => {
             try {
               parser.parse(val);
             } catch (err) {
@@ -63,8 +57,8 @@ class AegisubScript {
       });
 
       rl.on('close', () => {
-        [...script.parsers.values()].forEach(parsers => {
-          parsers.forEach(parser => {
+        [...script.parsers.values()].forEach((parsers) => {
+          parsers.forEach((parser) => {
             script[parser.constructor.name.toLowerCase()] = parser.getValue();
           });
         });

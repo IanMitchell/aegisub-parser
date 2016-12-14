@@ -3,7 +3,7 @@ class Garbage {
     this.data = new Map();
   }
 
-  static registerHeaders() {
+  registerHeaders() {
     return [
       'Aegisub Project Garbage',
     ];
